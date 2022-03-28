@@ -12,8 +12,7 @@ public class App
         bubbleSort(x);
         for(int i=0;i<x.length;i++)System.out.println(x[i]);
     }
-    //play
-    
+    // trial boy
     static void bubbleSort(int arr[])
     {
         int n = arr.length;
